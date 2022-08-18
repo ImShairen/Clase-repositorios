@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-sass": "^7.0.1",
+    "nodemo": "^1.0.0"
+  }
+}
